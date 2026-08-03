@@ -1,0 +1,10 @@
+numpy
+pandas
+torch
+yfinance
+matplotlib
+scipy
+jupyterlab
+notebook
+nbconvert
+ipykernel
