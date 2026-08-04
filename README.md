@@ -11,7 +11,9 @@ stability.
   sell/hold/buy actions) and a `MomentumDQNAgent` (2-layer MLP, target network,
   experience replay, GPU-aware).
 - Compares two reward specifications across 10 random seeds each (500 episodes,
-  90/10 non-overlapping train/test split on 5 years of daily data):
+  90/10 non-overlapping train/test split on 5 years of daily data,
+  22 June 2021 to 22 June 2026, pinned to an exact date range for
+  reproducibility):
   - **`raw_return`** — unshaped portfolio return (ablation baseline)
   - **`momentum_shaped`** — return plus momentum-contingent bonuses/penalties
     and a drawdown penalty
@@ -37,9 +39,13 @@ pip install -r requirements.txt
 ## Running
 
 Open `DQN_Momentum_Strategy.ipynb` in Jupyter Lab/Notebook or VS Code and run
-all cells. The 20-run reward-comparison experiment (Section 12) is the most
-expensive part (roughly 30-40 minutes on CPU); it uses a local checkpoint file
-so it can be interrupted and resumed without losing completed runs.
+all cells. Sections are numbered to mirror the accompanying manuscript: 1-6
+define the environment/model/data, 7 computes the buy-and-hold benchmark, 8
+runs the 20-run reward-comparison experiment, and 9 runs a supplementary
+training-convergence analysis. The 20-run experiment in Section 8 is by far
+the most expensive part (roughly 15-20 minutes per run, ~5-6 hours total on
+CPU); it uses a local checkpoint file so it can be interrupted and resumed
+without losing completed runs.
 
 Note: the notebook auto-detects a CUDA GPU if available, but for this network
 size (two 128-unit hidden layers, batch size 32) CPU was empirically ~1.7x
