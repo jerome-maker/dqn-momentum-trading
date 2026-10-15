@@ -3,3 +3,10 @@ __pycache__/
 .ipynb_checkpoints/
 *.pkl
 .DS_Store
+
+# 原始價格（Yahoo Finance）依資料提供者條款不重新散布；以 expansion/data_fetch.py 依固定日期重新下載，
+# 再用 expansion/data_fingerprint.py 比對 expansion/data/price_data_fingerprint.csv
+expansion/data/*_2004-01-02_2026-06-23.csv
+expansion/data/features_cache.pkl
+expansion/data/clean_close_panel.pkl
+expansion/results/batch_*.pkl

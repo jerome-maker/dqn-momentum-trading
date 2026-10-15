@@ -1,0 +1,57 @@
+[10-15 13:04:28] device=NVIDIA GeForce GTX 1060 3GB folds=87 agents/batch=1218 episodes=500
+[10-15 13:07:14]   episode 50/500  eps=0.368  mean ep reward=-199.40
+[10-15 13:10:35]   episode 100/500  eps=0.135  mean ep reward=136.13
+[10-15 13:14:48]   episode 150/500  eps=0.050  mean ep reward=249.79
+[10-15 13:18:46]   episode 200/500  eps=0.018  mean ep reward=296.82
+[10-15 13:21:59]   episode 250/500  eps=0.010  mean ep reward=595.06
+[10-15 13:25:25]   episode 300/500  eps=0.010  mean ep reward=207.93
+[10-15 13:28:27]   episode 350/500  eps=0.010  mean ep reward=259.41
+[10-15 13:32:13]   episode 400/500  eps=0.010  mean ep reward=420.59
+[10-15 13:35:45]   episode 450/500  eps=0.010  mean ep reward=461.33
+[10-15 13:38:37]   episode 500/500  eps=0.010  mean ep reward=263.26
+[10-15 13:39:27] batch 0 完成：35.0 分，峰值 VRAM 1831 MiB
+[10-15 13:42:21]   episode 50/500  eps=0.368  mean ep reward=-160.73
+[10-15 13:45:15]   episode 100/500  eps=0.135  mean ep reward=122.89
+[10-15 13:48:06]   episode 150/500  eps=0.050  mean ep reward=208.19
+[10-15 13:50:56]   episode 200/500  eps=0.018  mean ep reward=302.08
+[10-15 13:53:49]   episode 250/500  eps=0.010  mean ep reward=171.38
+[10-15 13:56:40]   episode 300/500  eps=0.010  mean ep reward=219.48
+[10-15 13:59:31]   episode 350/500  eps=0.010  mean ep reward=130.11
+[10-15 14:02:23]   episode 400/500  eps=0.010  mean ep reward=-70.69
+[10-15 14:05:16]   episode 450/500  eps=0.010  mean ep reward=301.55
+[10-15 14:08:05]   episode 500/500  eps=0.010  mean ep reward=288.94
+[10-15 14:08:50] batch 1 完成：29.4 分，峰值 VRAM 1830 MiB
+[10-15 14:11:21]   episode 50/500  eps=0.368  mean ep reward=48.39
+[10-15 14:13:51]   episode 100/500  eps=0.135  mean ep reward=168.44
+[10-15 14:16:28]   episode 150/500  eps=0.050  mean ep reward=194.02
+[10-15 14:18:56]   episode 200/500  eps=0.018  mean ep reward=304.46
+[10-15 14:21:24]   episode 250/500  eps=0.010  mean ep reward=444.42
+[10-15 14:23:51]   episode 300/500  eps=0.010  mean ep reward=319.28
+[10-15 14:26:27]   episode 350/500  eps=0.010  mean ep reward=296.38
+[10-15 14:28:57]   episode 400/500  eps=0.010  mean ep reward=485.37
+[10-15 14:31:25]   episode 450/500  eps=0.010  mean ep reward=357.89
+[10-15 14:33:54]   episode 500/500  eps=0.010  mean ep reward=426.21
+[10-15 14:34:35] batch 2 完成：25.7 分，峰值 VRAM 1830 MiB
+[10-15 14:37:04]   episode 50/500  eps=0.368  mean ep reward=52.14
+[10-15 14:39:33]   episode 100/500  eps=0.135  mean ep reward=226.46
+[10-15 14:42:01]   episode 150/500  eps=0.050  mean ep reward=270.55
+[10-15 14:44:34]   episode 200/500  eps=0.018  mean ep reward=211.16
+[10-15 14:47:01]   episode 250/500  eps=0.010  mean ep reward=274.22
+[10-15 14:49:28]   episode 300/500  eps=0.010  mean ep reward=250.36
+[10-15 14:51:55]   episode 350/500  eps=0.010  mean ep reward=201.88
+[10-15 14:54:23]   episode 400/500  eps=0.010  mean ep reward=183.35
+[10-15 14:56:50]   episode 450/500  eps=0.010  mean ep reward=230.38
+[10-15 14:59:17]   episode 500/500  eps=0.010  mean ep reward=346.73
+[10-15 14:59:59] batch 3 完成：25.4 分，峰值 VRAM 1830 MiB
+[10-15 15:02:28]   episode 50/500  eps=0.368  mean ep reward=135.11
+[10-15 15:04:57]   episode 100/500  eps=0.135  mean ep reward=129.28
+[10-15 15:07:26]   episode 150/500  eps=0.050  mean ep reward=214.81
+[10-15 15:09:55]   episode 200/500  eps=0.018  mean ep reward=269.15
+[10-15 15:12:25]   episode 250/500  eps=0.010  mean ep reward=211.37
+[10-15 15:14:55]   episode 300/500  eps=0.010  mean ep reward=308.39
+[10-15 15:17:23]   episode 350/500  eps=0.010  mean ep reward=299.22
+[10-15 15:19:51]   episode 400/500  eps=0.010  mean ep reward=378.13
+[10-15 15:22:19]   episode 450/500  eps=0.010  mean ep reward=173.32
+[10-15 15:24:47]   episode 500/500  eps=0.010  mean ep reward=410.63
+[10-15 15:25:28] batch 4 完成：25.5 分，峰值 VRAM 1830 MiB
+[10-15 15:25:28] 全部完成

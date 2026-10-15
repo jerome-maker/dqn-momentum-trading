@@ -1,0 +1,8 @@
+(1) shaped−raw 報酬 對 (50%動能法則−50%買入持有) 報酬：斜率 0.31 (95% CI 0.06, 0.57)；Spearman ρ=0.27, p=0.012
+    shaped 報酬 與 50%動能法則報酬 的 Spearman ρ=0.87, p=2.1e-28；raw 報酬與之 ρ=0.22
+(2) raw_return           崩潰率：下跌年度 16.2% vs 上漲年度 24.8%；與市場報酬 Spearman ρ=0.12, p=0.26
+(2) raw_scaled           崩潰率：下跌年度 16.2% vs 上漲年度 25.6%；與市場報酬 Spearman ρ=0.14, p=0.2
+(2) drawdown_only        崩潰率：下跌年度 40.8% vs 上漲年度 41.3%；與市場報酬 Spearman ρ=-0.01, p=0.95
+(2) differential_sharpe  崩潰率：下跌年度 31.7% vs 上漲年度 39.5%；與市場報酬 Spearman ρ=0.01, p=0.92
+(2) momentum_shaped      崩潰率：下跌年度 2.1% vs 上漲年度 2.4%；與市場報酬 Spearman ρ=0.10, p=0.38
+    下跌年度數 24 / 87
